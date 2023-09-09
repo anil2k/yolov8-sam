@@ -1,4 +1,4 @@
-# Object Detection and Semantic Segmentation with YOLOv8 and SAM
+# Object Detection and Segmentation with YOLOv8 and SAM
 
 
 
